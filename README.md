@@ -17,6 +17,8 @@ A modern web interface that combines the core functionalities of WhatsApp and Tw
 - **Contact Status**: See online/offline status and last seen time
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
+<img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/3ed1ce93-8d34-4f12-9629-7ce2b2fb3572" />
+
 ### Twitter Interface
 - **Tweet Feed**: View a timeline of tweets with engagement metrics
 - **Tweet Composition**: Create and post new tweets
