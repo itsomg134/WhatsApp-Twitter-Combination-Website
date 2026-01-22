@@ -1,10 +1,12 @@
 # WhatsApp-Twitter-Combination-Website
 
-# ChatTweet - WhatsApp & Twitter Combo Website
-
 A modern web interface that combines the core functionalities of WhatsApp and Twitter into a single, unified application. This project demonstrates a responsive frontend that simulates the experience of using both platforms simultaneously.
 
-![ChatTweet Screenshot](https://via.placeholder.com/800x400/075E54/FFFFFF?text=ChatTweet+Screenshot)
+![Pokémon Portal](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 🌟 Features
 
@@ -164,15 +166,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, questions, or feedback:
-- Open an [issue](https://github.com/yourusername/chattweet/issues)
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
-## ⭐ Show Your Support
+Om Gedam
 
-If you find this project useful, please give it a star on GitHub!
+GitHub: @itsomg134
 
----
+Email: omgedam123098@gmail.com
 
-**Note**: This is a frontend demonstration project. Actual WhatsApp and Twitter functionality would require integration with their respective APIs, which are subject to their terms of service and require proper authentication.
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
